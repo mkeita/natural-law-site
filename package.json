@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "vue": "^2.6.10",
     "bootstrap-vue": "^2.0.0-rc.28"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
